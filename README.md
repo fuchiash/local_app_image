@@ -1,2 +1,2 @@
 # local_app_image
-test only
+test only - user mode only
